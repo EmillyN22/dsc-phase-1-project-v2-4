@@ -4,3 +4,7 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
+im.db
+tmdb.movies.csv
+rt.movie_info.tsv
+rt.reviews.tsv
